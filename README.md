@@ -8,7 +8,7 @@ The following software is necessary:
 
 The input data has been obtained from two different sources: 
 
-<table> <tr><th>Source</th><th>Version</th></tr><tr><td>[Netflix Shows](https://www.kaggle.com/shivamb/netflix-shows/version/2)</td><td>2</td></tr><tr><td> [User Ratings](https://www.kaggle.com/netflix-inc/netflix-prize-data?select=movie_titles.csv) </td><td>2</td></tr></table>
+|<table> <tr><th>Source</th><th>Version</th></tr><tr><td>[Netflix Shows](https://www.kaggle.com/shivamb/netflix-shows/version/2)</td><td>2</td></tr><tr><td> [User Ratings](https://www.kaggle.com/netflix-inc/netflix-prize-data?select=movie_titles.csv) </td><td>2</td></tr></table>
 
 ## Pre-processing
 
