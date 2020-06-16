@@ -10,6 +10,10 @@ The input data has been obtained from two different sources: <table><tr><th>Sour
 
 ## Pre-processing
 
+Executing this peace of code in the directory containing the input data, we will pre-process the raw data to create the files already placed in [preprocessed_data](preprocessed_data)
+```
+python prep.py
+```
 ## Loading
 
 ## Exploitation
