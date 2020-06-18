@@ -33,4 +33,5 @@ The program is simple, it has few options where you can choose:
 - Look at a random sample of 50 movies that you have in the database.
 - A recommendation based on a movie.
 - Recommendation based on you profile.
+
 Alternatively, you also can watch a movie and rate it. This rate will be added to the property graph.
