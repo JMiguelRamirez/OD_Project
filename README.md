@@ -30,8 +30,11 @@ python poc.py
 
 The program is simple, it has few options where you can choose:
 - Your user ID
-- Look at a random sample of 50 movies that you have in the database.
+- Take a look at a random sample of 50 movies from the database.
 - A recommendation based on a movie.
-- Recommendation based on you profile.
+- A recommendation based on your profile.
 
-Alternatively, you also can watch a movie and rate it. This rate will be added to the property graph.
+Alternatively, you can also watch a movie and rate it. This rating will be added to the property graph.
+
+## Authors
+Sergi Aguiló & José Miguel Ramírez
