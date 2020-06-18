@@ -28,7 +28,7 @@ def assignuser(userid):
 						print("User ID", user, "is available")
 						return user
 			# If user is wrong, repeat again
-			print("Wrong user ID. Type again a correct user ID or type 0 for a random use ID")
+			print("Wrong user ID. Type again a correct user ID or type 0 for a random user ID")
 			userid = input("Type here: ")
 			assignuser(userid)
 
@@ -112,7 +112,7 @@ def watching_movie(movie_w,user):
 def choosing(user):
 
 	print("To see a random subset of 50 shows, type 0")
-	print("Otherwise, go the recommenders - You can type anything")
+	print("Otherwise, go to the recommenders - You can type anything")
 	# Show the movies
 	option = input("Type here: ")
 
