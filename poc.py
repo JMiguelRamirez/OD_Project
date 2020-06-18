@@ -143,7 +143,7 @@ def choosing(user):
 def main():
 	# Starting the POC
 	print("Welcome to the Netflix recommender!\n\n")
-	print("Type your user ID (If you do not have any user ID, it will be assign randomly typing 0):")
+	print("Type your user ID (If you do not have any user ID, it will be assigned randomly by typing 0):")
 	# Read the userID
 	userid = input("Type here: ")
 	user = assignuser(userid)
