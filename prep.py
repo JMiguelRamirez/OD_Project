@@ -58,7 +58,7 @@ def create_user(combine_data_1, combine_data_2,
                 IsAvailable = True
         # Retrive user - movie rating
         elif IsAvailable == True:
-            if random.random() < 0.01: # As the file being so big, we reduce the number of ratings
+            if random.random() < 0.005: # As the file being so big, we reduce the number of ratings
                 if movie_rating[0] not in dict_users: # For unique users
                     dict_users[movie_rating[0]] = 1
                     # Write unique users
@@ -74,7 +74,7 @@ def create_user(combine_data_1, combine_data_2,
             if list_movies.get(current_ID):
                 IsAvailable = True
         elif IsAvailable == True:
-            if random.random() < 0.01:
+            if random.random() < 0.005:
                 if movie_rating[0] not in dict_users:
                     dict_users[movie_rating[0]] = 1
                     out_only_user.write(f"{movie_rating[0]}\n")
@@ -88,7 +88,7 @@ def create_user(combine_data_1, combine_data_2,
             if list_movies.get(current_ID):
                 IsAvailable = True
         elif IsAvailable == True:
-            if random.random() < 0.01:
+            if random.random() < 0.005:
                 if movie_rating[0] not in dict_users:
                     dict_users[movie_rating[0]] = 1
                     out_only_user.write(f"{movie_rating[0]}\n")
@@ -102,7 +102,7 @@ def create_user(combine_data_1, combine_data_2,
             if list_movies.get(current_ID):
                 IsAvailable = True
         elif IsAvailable == True:
-            if random.random() < 0.01:
+            if random.random() < 0.005:
                 if movie_rating[0] not in dict_users:
                     dict_users[movie_rating[0]] = 1
                     out_only_user.write(f"{movie_rating[0]}\n")
