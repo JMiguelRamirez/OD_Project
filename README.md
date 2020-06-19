@@ -20,15 +20,15 @@ With the folowing script we will build a property graph by loading our pre-proce
 ```
 python Make_graph.py
 ```
-## Proof of concept (POC)
+## Proof of concept (POC): Graph Exploitation
 
-With the following command, we will show you our proof of concept.
+With the following command, we will run our proof of concept.
 ```
 python poc.py
 ```
 ### Preview of the POC
 
-The program is simple, it has few options where you can choose:
+The program has few options where you can choose:
 - Your user ID. It can be a random user of the database or you can choose an existing user.
 ![alt text](https://github.com/JMiguelRamirez/OD_Project/blob/master/fig/Choose_user.png?raw=true)
 - Take a look at a random sample of 50 movies from the database.
