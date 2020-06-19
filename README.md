@@ -38,7 +38,7 @@ The program has few options where you can choose:
 - A recommendation based on your profile. It is based in your user ID.
 ![alt text](https://github.com/JMiguelRamirez/OD_Project/blob/master/fig/rec_hist.png?raw=true)
 
-- And you can watch a movie and rate it. This rating will be added to the property graph for improving next recommendations
+- And you can watch a movie and rate it. This rating will be added to the property graph.
 ![alt text](https://github.com/JMiguelRamirez/OD_Project/blob/master/fig/watching_movie.png?raw=true)
 
 
