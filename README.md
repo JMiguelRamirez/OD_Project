@@ -16,17 +16,17 @@ python prep.py
 ```
 ## Loading
 
-With the folowing script we will build a property graph by loading our pre-processed data in an running database of Neo4j. Script and pre-processed data must be in the same folder.
+With the folowing script we will build a property graph by loading our pre-processed data in an running database of Neo4j. Pre-processed data must be in the *import* folder of the database. Building the database lasts for 5 minutes.
 ```
 python Make_graph.py
 ```
-## Proof of concept
+## Proof of concept (POC)
 
 With the following command, we will show you our proof of concept.
 ```
 python poc.py
 ```
-### Explanation of the proof of concept
+### Preview of the POC
 
 The program is simple, it has few options where you can choose:
 - Your user ID
