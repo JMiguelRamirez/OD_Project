@@ -29,12 +29,18 @@ python poc.py
 ### Preview of the POC
 
 The program is simple, it has few options where you can choose:
-- Your user ID
+- Your user ID. It can be a random user of the database or you can choose an existing user.
+![alt text](https://github.com/JMiguelRamirez/OD_Project/blob/master/fig/Choose_user.png?raw=true)
 - Take a look at a random sample of 50 movies from the database.
-- A recommendation based on a movie.
-- A recommendation based on your profile.
+![alt text](https://github.com/JMiguelRamirez/OD_Project/blob/master/fig/list_movies.png?raw=true)
+- A recommendation based on a movie. Based in the movie that you have typed.
+![alt text](https://github.com/JMiguelRamirez/OD_Project/blob/master/fig/rec_show.png?raw=true)
+- A recommendation based on your profile. It is based in your user ID.
+![alt text](https://github.com/JMiguelRamirez/OD_Project/blob/master/fig/rec_hist.png?raw=true)
 
 Alternatively, you can also watch a movie and rate it. This rating will be added to the property graph.
+![alt text](https://github.com/JMiguelRamirez/OD_Project/blob/master/fig/watching_movie.png?raw=true)
+
 
 ## Authors
 Sergi Aguiló & José Miguel Ramírez
